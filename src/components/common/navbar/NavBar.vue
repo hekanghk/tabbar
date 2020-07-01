@@ -8,7 +8,7 @@
 
 <script>
   export default {
-    name: "NavBar"
+    name: "NavBar",
   }
 </script>
 
@@ -21,11 +21,11 @@
 
   .left, .right{
     width: 60px;
-    background-color: red;
+    background-color: pink;
   }
 
   .center{
     flex:1;
-    background-color: blue;
+    background-color: pink;
   }
 </style>
